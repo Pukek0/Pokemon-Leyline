@@ -178,3 +178,6 @@ settings.local.json
 #
 # These are the actual source files for your project.
 # =========================================================
+"Data/Tiled/Maps/_Archive/Overviews/" 
+"Data/Tiled/Maps/Sinnoh/Sinnoh_full.tmx" 
+"Data/Tiled/Maps/Johto/Full_exterior.world" 
