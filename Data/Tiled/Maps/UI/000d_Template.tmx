@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" compressionlevel="0" width="32" height="32" tilewidth="32" tileheight="32" infinite="1" nextlayerid="245" nextobjectid="1">
+ <tileset firstgid="1" source="../../Tilesets/HGSS/Borders.tsx"/>
+ <tileset firstgid="193" source="../../Tilesets/HGSS/systemtags.tsx"/>
+ <tileset firstgid="321" source="../../Tilesets/HGSS/passages.tsx"/>
+ <layer id="205" name="Floor_A_1" width="32" height="32">
+  <data encoding="csv">
+   <chunk x="0" y="16" width="16" height="16">
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,6,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</chunk>
+  </data>
+ </layer>
+ <layer id="206" name="Floor_B_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="241" name="Floor_C_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="242" name="Floor_D_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="227" name="♦_MA_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="228" name="♦_MA_top_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="229" name="♦_MB_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="230" name="♦_MB_top_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="231" name="♦_MC_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="232" name="♦_MC_top_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="239" name="♦_MD_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="240" name="♦_MD_top_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="207" name="Shadow_A_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="243" name="Shore_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="43" name="Props_A_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="44" name="Props_B_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="175" name="Props_C_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="211" name="Props_D_1" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <group id="4" name="Z=0"/>
+ <layer id="244" name="Shore_2" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="233" name="♦_MA_2" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="234" name="♦_MA_top_2" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="235" name="♦_MB_2" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="236" name="♦_MB_top_2" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="237" name="♦_MC_2" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="238" name="♦_MC_top_2" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="45" name="Props_A_2" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="62" name="Props_B_2" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <group id="3" name="Z=1"/>
+ <layer id="63" name="Props_A_3" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="64" name="Props_B_3" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <group id="2" name="Z=2"/>
+ <layer id="199" name="Props_A_4" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="212" name="Props_B_4" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <group id="48" name="Z=3"/>
+ <layer id="61" name="Props_A_5" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="213" name="Props_B_5" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <group id="214" name="Z=4"/>
+ <layer id="215" name="Props_A_6" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="216" name="Props_B_6" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="209" name="Black_6" width="32" height="32">
+  <data encoding="csv">
+   <chunk x="0" y="0" width="16" height="16">
+49,49,49,49,49,49,49,49,49,49,0,0,0,0,0,0,
+49,49,49,49,49,49,49,49,49,49,0,0,0,0,0,0,
+49,49,49,49,49,49,49,49,49,49,0,0,0,0,0,0,
+49,49,49,49,49,49,49,49,49,49,0,0,0,0,0,0,
+49,49,49,49,49,49,49,49,49,49,0,0,0,0,0,0,
+49,49,49,49,49,49,49,49,49,49,0,0,0,0,0,0,
+49,49,49,49,49,49,49,49,49,49,0,0,0,0,0,0,
+49,49,49,49,49,49,49,49,49,49,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</chunk>
+  </data>
+ </layer>
+ <group id="49" name="Z=5"/>
+ <layer id="168" name="systemtags" width="32" height="32">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="15" name="passages" width="32" height="32" opacity="0.34">
+  <data encoding="csv"/>
+ </layer>
+ <layer id="1" name="borders" width="32" height="32">
+  <data encoding="csv">
+   <chunk x="0" y="0" width="16" height="16">
+65,66,67,68,69,70,71,72,73,74,0,0,0,0,0,0,
+81,0,0,0,0,0,0,0,0,90,0,0,0,0,0,0,
+97,0,0,0,0,0,0,0,0,106,0,0,0,0,0,0,
+113,0,0,0,0,0,0,0,0,122,0,0,0,0,0,0,
+129,0,0,0,0,0,0,0,0,138,0,0,0,0,0,0,
+145,0,0,0,0,0,0,0,0,154,0,0,0,0,0,0,
+161,0,0,0,0,0,0,0,0,170,0,0,0,0,0,0,
+177,178,179,180,181,182,183,184,185,186,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,
+0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+</chunk>
+  </data>
+ </layer>
+</map>

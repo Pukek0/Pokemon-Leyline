@@ -1,0 +1,4 @@
+rules_HGSS.tmx
+rules_HGSS_buildings.tmx
+rules_HGSS_rocks.tmx
+rules_HGSS_urban.tmx

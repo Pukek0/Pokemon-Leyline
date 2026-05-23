@@ -1,0 +1,538 @@
+{
+    "maps": [
+        {
+            "fileName": "001_Newbark.tmx",
+            "height": 1248,
+            "width": 1024,
+            "x": 0,
+            "y": 0
+        },
+        {
+            "fileName": "002_Route29.tmx",
+            "height": 1184,
+            "width": 3072,
+            "x": -3072,
+            "y": 64
+        },
+        {
+            "fileName": "003_Cherrygrove.tmx",
+            "height": 1216,
+            "width": 2208,
+            "x": -5280,
+            "y": 64
+        },
+        {
+            "fileName": "004_Route30.tmx",
+            "height": 3200,
+            "width": 2464,
+            "x": -5280,
+            "y": -3136
+        },
+        {
+            "fileName": "005_Route31.tmx",
+            "height": 1856,
+            "width": 2112,
+            "x": -5120,
+            "y": -4992
+        },
+        {
+            "fileName": "006_Violet.tmx",
+            "height": 2368,
+            "width": 2048,
+            "x": -7168,
+            "y": -5440
+        },
+        {
+            "fileName": "008_RuinsAlph.tmx",
+            "height": 2912,
+            "width": 1344,
+            "x": -8512,
+            "y": -4032
+        },
+        {
+            "fileName": "007_Route32 - A.tmx",
+            "height": 1952,
+            "width": 1856,
+            "x": -7168,
+            "y": -3072
+        },
+        {
+            "fileName": "007_Route32 - B.tmx",
+            "height": 3040,
+            "width": 1536,
+            "x": -7424,
+            "y": -1120
+        },
+        {
+            "fileName": "009_Route33.tmx",
+            "height": 1376,
+            "width": 1280,
+            "x": -7168,
+            "y": 1920
+        },
+        {
+            "fileName": "010_Azalea.tmx",
+            "height": 1376,
+            "width": 1792,
+            "x": -8960,
+            "y": 1920
+        },
+        {
+            "fileName": "011_Route34.tmx",
+            "height": 3232,
+            "width": 1888,
+            "x": -10848,
+            "y": 64
+        },
+        {
+            "fileName": "012_Goldenrod.tmx",
+            "height": 2048,
+            "width": 2976,
+            "x": -11936,
+            "y": -1984
+        },
+        {
+            "fileName": "013_Route35.tmx",
+            "height": 2048,
+            "width": 1920,
+            "x": -10432,
+            "y": -4032
+        },
+        {
+            "fileName": "014_Route36.tmx",
+            "height": 1088,
+            "width": 3072,
+            "x": -10240,
+            "y": -5120
+        },
+        {
+            "fileName": "015_Route37.tmx",
+            "height": 1024,
+            "width": 1792,
+            "x": -9984,
+            "y": -6144
+        },
+        {
+            "fileName": "016_Ecruteak.tmx",
+            "height": 2368,
+            "width": 2048,
+            "x": -10240,
+            "y": -8512
+        },
+        {
+            "fileName": "023-Route42.tmx",
+            "height": 4128,
+            "width": 3072,
+            "x": -8192,
+            "y": -9248
+        },
+        {
+            "fileName": "017_Route38.tmx",
+            "height": 2336,
+            "width": 2048,
+            "x": -12288,
+            "y": -7392
+        },
+        {
+            "fileName": "018_Route39.tmx",
+            "height": 2368,
+            "width": 1312,
+            "x": -13600,
+            "y": -7424
+        },
+        {
+            "fileName": "019_Olivine.tmx",
+            "height": 3072,
+            "width": 2240,
+            "x": -13312,
+            "y": -5056
+        },
+        {
+            "fileName": "020_Route40.tmx",
+            "height": 3072,
+            "width": 2048,
+            "x": -15360,
+            "y": -5056
+        },
+        {
+            "fileName": "021_Route41.tmx",
+            "height": 2240,
+            "width": 2304,
+            "x": -15360,
+            "y": -1984
+        },
+        {
+            "fileName": "022_Cianwood.tmx",
+            "height": 2368,
+            "width": 1152,
+            "x": -16512,
+            "y": -2112
+        },
+        {
+            "fileName": "024_Mahogany.tmx",
+            "height": 1120,
+            "width": 1024,
+            "x": -5120,
+            "y": -7200
+        },
+        {
+            "fileName": "025_Route43.tmx",
+            "height": 2048,
+            "width": 1024,
+            "x": -5120,
+            "y": -9248
+        },
+        {
+            "fileName": "026_LakeRage(wet).tmx",
+            "height": 2240,
+            "width": 2848,
+            "x": -6240,
+            "y": -11488
+        },
+        {
+            "fileName": "027_Route44.tmx",
+            "height": 4256,
+            "width": 3072,
+            "x": -4096,
+            "y": -9248
+        },
+        {
+            "fileName": "030_Route46.tmx",
+            "height": 5056,
+            "width": 1792,
+            "x": -2816,
+            "y": -4992
+        },
+        {
+            "fileName": "029_Route45.tmx",
+            "height": 6304,
+            "width": 1248,
+            "x": -1024,
+            "y": -6240
+        },
+        {
+            "fileName": "028_Blackthorn.tmx",
+            "height": 2144,
+            "width": 2208,
+            "x": -1024,
+            "y": -8384
+        },
+        {
+            "fileName": "033_Route 47.tmx",
+            "height": 2432,
+            "width": 3584,
+            "x": -20096,
+            "y": -1344
+        },
+        {
+            "fileName": "034_Route 48.tmx",
+            "height": 1024,
+            "width": 2016,
+            "x": -19616,
+            "y": -2368
+        },
+        {
+            "fileName": "035_Safari Gate.tmx",
+            "height": 1120,
+            "width": 1408,
+            "x": -19552,
+            "y": -3488
+        },
+        {
+            "fileName": "026_LakeRage(dry).tmx",
+            "height": 2048,
+            "width": 3072,
+            "x": -6112,
+            "y": -13536
+        },
+        {
+            "fileName": "033_Route 47(up).tmx",
+            "height": 1824,
+            "width": 3008,
+            "x": -19520,
+            "y": -1344
+        },
+        {
+            "fileName": "032_Route 26.tmx",
+            "height": 4640,
+            "width": 1344,
+            "x": 7168,
+            "y": -3296
+        },
+        {
+            "fileName": "037_Route 28.tmx",
+            "height": 1408,
+            "width": 2112,
+            "x": 5120,
+            "y": -4544
+        },
+        {
+            "fileName": "038_Mount Silver.tmx",
+            "height": 1408,
+            "width": 1248,
+            "x": 3872,
+            "y": -4544
+        },
+        {
+            "fileName": "041_Viridian.tmx",
+            "height": 2080,
+            "width": 2368,
+            "x": 10272,
+            "y": -5120
+        },
+        {
+            "fileName": "040_Route 1.tmx",
+            "height": 2080,
+            "width": 2368,
+            "x": 10272,
+            "y": -3040
+        },
+        {
+            "fileName": "039_Pallet.tmx",
+            "height": 1024,
+            "width": 1664,
+            "x": 10976,
+            "y": -960
+        },
+        {
+            "fileName": "042_Route 2.tmx",
+            "height": 3072,
+            "width": 3072,
+            "x": 10272,
+            "y": -8192
+        },
+        {
+            "fileName": "043_Pewter.tmx",
+            "height": 2048,
+            "width": 2368,
+            "x": 10976,
+            "y": -10240
+        },
+        {
+            "fileName": "044_Route 3.tmx",
+            "height": 1408,
+            "width": 3072,
+            "x": 13344,
+            "y": -9408
+        },
+        {
+            "fileName": "045_Route 4.tmx",
+            "height": 2272,
+            "width": 3072,
+            "x": 16416,
+            "y": -9408
+        },
+        {
+            "fileName": "046_Cerulean.tmx",
+            "height": 1952,
+            "width": 2048,
+            "x": 19488,
+            "y": -9152
+        },
+        {
+            "fileName": "047_Route 5.tmx",
+            "height": 1088,
+            "width": 2048,
+            "x": 19488,
+            "y": -7200
+        },
+        {
+            "fileName": "048_Route 6.tmx",
+            "height": 1024,
+            "width": 2048,
+            "x": 19488,
+            "y": -4064
+        },
+        {
+            "fileName": "049_Vermilion.tmx",
+            "height": 2080,
+            "width": 2176,
+            "x": 19360,
+            "y": -3040
+        },
+        {
+            "fileName": "050_Route 7.tmx",
+            "height": 3072,
+            "width": 1024,
+            "x": 18464,
+            "y": -6112
+        },
+        {
+            "fileName": "051_Celadon.tmx",
+            "height": 2304,
+            "width": 2048,
+            "x": 16416,
+            "y": -5376
+        },
+        {
+            "fileName": "052_Route 8.tmx",
+            "height": 960,
+            "width": 2048,
+            "x": 21536,
+            "y": -5088
+        },
+        {
+            "fileName": "053_Lavender.tmx",
+            "height": 1024,
+            "width": 1344,
+            "x": 23584,
+            "y": -5088
+        },
+        {
+            "fileName": "055_Route 10.tmx",
+            "height": 2112,
+            "width": 3392,
+            "x": 21536,
+            "y": -7200
+        },
+        {
+            "fileName": "054_Route 9.tmx",
+            "height": 1952,
+            "width": 3296,
+            "x": 21536,
+            "y": -9152
+        },
+        {
+            "fileName": "056_Saffron.tmx",
+            "height": 2048,
+            "width": 2048,
+            "x": 19488,
+            "y": -6112
+        },
+        {
+            "fileName": "057_Route 11.tmx",
+            "height": 3168,
+            "width": 2048,
+            "x": 21536,
+            "y": -4128
+        },
+        {
+            "fileName": "058_Route 12.tmx",
+            "height": 3104,
+            "width": 1344,
+            "x": 23584,
+            "y": -4064
+        },
+        {
+            "fileName": "059_Route 13.tmx",
+            "height": 1024,
+            "width": 3712,
+            "x": 21216,
+            "y": -960
+        },
+        {
+            "fileName": "060_Route 14.tmx",
+            "height": 2048,
+            "width": 1024,
+            "x": 21536,
+            "y": 64
+        },
+        {
+            "fileName": "061_Route 15.tmx",
+            "height": 2048,
+            "width": 3072,
+            "x": 18464,
+            "y": 64
+        },
+        {
+            "fileName": "062_Fuschia.tmx",
+            "height": 2048,
+            "width": 2048,
+            "x": 16416,
+            "y": 64
+        },
+        {
+            "fileName": "063_Route 16.tmx",
+            "height": 1216,
+            "width": 2368,
+            "x": 14048,
+            "y": -4352
+        },
+        {
+            "fileName": "064_Route 17.tmx",
+            "height": 4224,
+            "width": 2368,
+            "x": 14048,
+            "y": -3136
+        },
+        {
+            "fileName": "065_Route 18.tmx",
+            "height": 1024,
+            "width": 2368,
+            "x": 14048,
+            "y": 1088
+        },
+        {
+            "fileName": "066_Channel 19.tmx",
+            "height": 2368,
+            "width": 2048,
+            "x": 16416,
+            "y": 2112
+        },
+        {
+            "fileName": "067_Channel 20 (right).tmx",
+            "height": 1664,
+            "width": 2048,
+            "x": 14368,
+            "y": 2816
+        },
+        {
+            "fileName": "067_Channel 20 (left).tmx",
+            "height": 1344,
+            "width": 2048,
+            "x": 12320,
+            "y": 3136
+        },
+        {
+            "fileName": "068_Cinnabar.tmx",
+            "height": 1344,
+            "width": 1344,
+            "x": 10976,
+            "y": 3136
+        },
+        {
+            "fileName": "069_Channel 21.tmx",
+            "height": 3072,
+            "width": 3392,
+            "x": 10976,
+            "y": 64
+        },
+        {
+            "fileName": "070_Route 22.tmx",
+            "height": 2272,
+            "width": 2144,
+            "x": 8128,
+            "y": -5184
+        },
+        {
+            "fileName": "071_Route 24.tmx",
+            "height": 1024,
+            "width": 2368,
+            "x": 19488,
+            "y": -10176
+        },
+        {
+            "fileName": "072_Route 25.tmx",
+            "height": 1248,
+            "width": 4192,
+            "x": 20192,
+            "y": -11424
+        },
+        {
+            "fileName": "036_Indigo.tmx",
+            "height": 1280,
+            "width": 1024,
+            "x": 7168,
+            "y": -6464
+        },
+        {
+            "fileName": "031_Route 27.tmx",
+            "height": 4640,
+            "width": 6144,
+            "x": 1024,
+            "y": -3296
+        }
+    ],
+    "onlyShowAdjacentMaps": false,
+    "type": "world"
+}

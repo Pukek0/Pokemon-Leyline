@@ -156,6 +156,12 @@ extract/
 config.local.yml
 settings.local.json
 
+
+/pokemonsdk/
+/saves/
+/.psdk-cache/
+*.log
+
 # =========================================================
 # IMPORTANT:
 # Keep these tracked:
