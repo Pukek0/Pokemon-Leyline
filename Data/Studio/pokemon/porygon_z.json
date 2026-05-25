@@ -24,14 +24,14 @@
       "evolutions": [],
       "experienceType": 1,
       "baseExperience": 241,
-      "baseLoyalty": 50,
+      "baseLoyalty": 70,
       "catchRate": 30,
       "femaleRate": -1,
       "breedGroups": [
         10,
         10
       ],
-      "hatchSteps": 2560,
+      "hatchSteps": 5120,
       "babyDbSymbol": "porygon",
       "babyForm": 0,
       "itemHeld": [
@@ -72,22 +72,22 @@
           "level": 1
         },
         {
-          "move": "defense_curl",
-          "klass": "LevelLearnableMove",
-          "level": 1
-        },
-        {
           "move": "conversion",
           "klass": "LevelLearnableMove",
           "level": 1
         },
         {
-          "move": "recycle",
+          "move": "conversion_2",
           "klass": "LevelLearnableMove",
           "level": 1
         },
         {
-          "move": "magnet_rise",
+          "move": "zap_cannon",
+          "klass": "LevelLearnableMove",
+          "level": 1
+        },
+        {
+          "move": "magic_coat",
           "klass": "LevelLearnableMove",
           "level": 1
         },
@@ -102,29 +102,34 @@
           "level": 1
         },
         {
-          "move": "thunder_shock",
-          "klass": "LevelLearnableMove",
-          "level": 15
-        },
-        {
           "move": "psybeam",
           "klass": "LevelLearnableMove",
-          "level": 20
-        },
-        {
-          "move": "conversion_2",
-          "klass": "LevelLearnableMove",
-          "level": 25
+          "level": 7
         },
         {
           "move": "agility",
           "klass": "LevelLearnableMove",
-          "level": 30
+          "level": 12
         },
         {
           "move": "recover",
           "klass": "LevelLearnableMove",
-          "level": 35
+          "level": 18
+        },
+        {
+          "move": "magnet_rise",
+          "klass": "LevelLearnableMove",
+          "level": 23
+        },
+        {
+          "move": "signal_beam",
+          "klass": "LevelLearnableMove",
+          "level": 29
+        },
+        {
+          "move": "embargo",
+          "klass": "LevelLearnableMove",
+          "level": 34
         },
         {
           "move": "discharge",
@@ -132,37 +137,29 @@
           "level": 40
         },
         {
-          "move": "tri_attack",
+          "move": "lock_on",
           "klass": "LevelLearnableMove",
           "level": 45
         },
         {
-          "move": "double_edge",
+          "move": "tri_attack",
           "klass": "LevelLearnableMove",
           "level": 50
         },
         {
-          "move": "lock_on",
+          "move": "magic_coat",
           "klass": "LevelLearnableMove",
-          "level": 55
+          "level": 56
         },
         {
           "move": "zap_cannon",
           "klass": "LevelLearnableMove",
-          "level": 60
+          "level": 62
         },
         {
           "move": "hyper_beam",
           "klass": "LevelLearnableMove",
-          "level": 65
-        },
-        {
-          "move": "take_down",
-          "klass": "TechLearnableMove"
-        },
-        {
-          "move": "double_edge",
-          "klass": "TechLearnableMove"
+          "level": 67
         },
         {
           "move": "ice_beam",
@@ -170,10 +167,6 @@
         },
         {
           "move": "blizzard",
-          "klass": "TechLearnableMove"
-        },
-        {
-          "move": "psybeam",
           "klass": "TechLearnableMove"
         },
         {
@@ -197,15 +190,19 @@
           "klass": "TechLearnableMove"
         },
         {
+          "move": "toxic",
+          "klass": "TechLearnableMove"
+        },
+        {
           "move": "psychic",
           "klass": "TechLearnableMove"
         },
         {
-          "move": "agility",
+          "move": "double_team",
           "klass": "TechLearnableMove"
         },
         {
-          "move": "swift",
+          "move": "dream_eater",
           "klass": "TechLearnableMove"
         },
         {
@@ -221,19 +218,43 @@
           "klass": "TechLearnableMove"
         },
         {
+          "move": "snore",
+          "klass": "TutorLearnableMove"
+        },
+        {
           "move": "protect",
           "klass": "TechLearnableMove"
         },
         {
           "move": "icy_wind",
-          "klass": "TechLearnableMove"
+          "klass": "TutorLearnableMove"
         },
         {
-          "move": "endure",
+          "move": "swagger",
           "klass": "TechLearnableMove"
         },
         {
           "move": "sleep_talk",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "return",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "frustration",
+          "klass": "TechLearnableMove"
+        },
+        {
+          "move": "pain_split",
+          "klass": "TutorLearnableMove"
+        },
+        {
+          "move": "iron_tail",
+          "klass": "TutorLearnableMove"
+        },
+        {
+          "move": "hidden_power",
           "klass": "TechLearnableMove"
         },
         {
@@ -245,28 +266,60 @@
           "klass": "TechLearnableMove"
         },
         {
+          "move": "psych_up",
+          "klass": "TechLearnableMove"
+        },
+        {
           "move": "shadow_ball",
           "klass": "TechLearnableMove"
         },
         {
           "move": "uproar",
-          "klass": "TechLearnableMove"
+          "klass": "TutorLearnableMove"
         },
         {
           "move": "facade",
           "klass": "TechLearnableMove"
         },
         {
-          "move": "charge",
+          "move": "trick",
+          "klass": "TutorLearnableMove"
+        },
+        {
+          "move": "magic_coat",
+          "klass": "TutorLearnableMove"
+        },
+        {
+          "move": "recycle",
+          "klass": "TutorLearnableMove"
+        },
+        {
+          "move": "signal_beam",
+          "klass": "TutorLearnableMove"
+        },
+        {
+          "move": "aerial_ace",
           "klass": "TechLearnableMove"
         },
         {
-          "move": "trick",
-          "klass": "TechLearnableMove"
+          "move": "shock_wave",
+          "klass": "TutorLearnableMove"
         },
         {
           "move": "gravity",
+          "klass": "TutorLearnableMove"
+        },
+        {
+          "move": "embargo",
           "klass": "TechLearnableMove"
+        },
+        {
+          "move": "last_resort",
+          "klass": "TutorLearnableMove"
+        },
+        {
+          "move": "magnet_rise",
+          "klass": "TutorLearnableMove"
         },
         {
           "move": "dark_pulse",
@@ -277,12 +330,8 @@
           "klass": "TechLearnableMove"
         },
         {
-          "move": "nasty_plot",
-          "klass": "TechLearnableMove"
-        },
-        {
           "move": "zen_headbutt",
-          "klass": "TechLearnableMove"
+          "klass": "TutorLearnableMove"
         },
         {
           "move": "trick_room",
@@ -293,23 +342,35 @@
           "klass": "TechLearnableMove"
         },
         {
+          "move": "wonder_room",
+          "klass": "TutorLearnableMove"
+        },
+        {
           "move": "psyshock",
           "klass": "TechLearnableMove"
         },
         {
+          "move": "telekinesis",
+          "klass": "TutorLearnableMove"
+        },
+        {
           "move": "foul_play",
+          "klass": "TutorLearnableMove"
+        },
+        {
+          "move": "round",
           "klass": "TechLearnableMove"
+        },
+        {
+          "move": "ally_switch",
+          "klass": "TutorLearnableMove"
         },
         {
           "move": "electroweb",
-          "klass": "TechLearnableMove"
+          "klass": "TutorLearnableMove"
         },
         {
-          "move": "eerie_impulse",
-          "klass": "TechLearnableMove"
-        },
-        {
-          "move": "tera_blast",
+          "move": "confide",
           "klass": "TechLearnableMove"
         },
         {
@@ -318,7 +379,7 @@
         }
       ],
       "formTextId": {
-        "name": 611,
+        "name": 585,
         "description": 0
       }
     }
